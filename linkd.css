@@ -1,0 +1,213 @@
+.container{
+    width: 100%;
+}
+.header{
+    width: 100%;
+    height: 200px;
+}
+.linkedin{
+    width: 150px;
+}
+.layout{
+    box-shadow: 5px 10px 8px 10px #8888;
+    position:absolute;
+    top: 15%;
+    left: 40%;
+    right: 40%;
+
+    width: 350px;
+    height: 550px;
+ background-color: whitesmoke; 
+   
+}
+.headercontent{
+    padding: 10px;
+    position: absolute;
+    top: -10px;
+    
+    font-size: 17px;
+    font-weight: lighter;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: aliceblue;
+    width: 94%;
+    height: 100px;
+}
+.subheader{
+    position: absolute;
+    
+    top: 60px;
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.formlayout{
+    position: absolute;
+    top: 17%;
+    
+    width: 98%;
+    height: 220px;
+    background-color: aliceblue;
+}
+
+    
+
+.form1{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 90%;
+    height: 70px;
+    background-color: aliceblue;
+}
+.lblone{
+    background-color:hsl(197, 59%, 86%);
+    border: darkblue solid;
+    border-radius:  10px ;
+    height: 55px;
+    width: 90%;
+}
+.form2{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 90%;
+    height: 70px;
+    background-color: aliceblue;
+}
+.lbltwo{
+    background-color:hsl(197, 59%, 86%);
+    border: darkblue solid;
+    border-radius:  10px ;
+    height: 55px;
+    width: 90%;
+}
+.resetpassword{
+    
+    position: relative;
+    left:30px;
+    top: 8px;
+    color:#0073b1;
+    font-family: inherit;
+    text-decoration: none;
+}
+.divbtn{
+    position: absolute;
+    top: 50%;
+    left: 20px;
+
+    height: 52px;
+    width: 90%;
+    margin-top: 30px;
+    background-color:aliceblue;
+
+}
+.signin{
+    color: white;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 8px;
+    width: 95%;
+    height: 50px;
+    border-radius: 20px;
+
+    background-color: #0073b1;
+}
+.linebtwn{
+    width: 50px;
+    height: 1px;
+    background-color: darkgrey;
+}
+.lineL{
+    position: absolute;
+    top: 380px;
+    width: 150px;
+    height: 1px;
+    background-color: dimgray;
+
+}
+.lineR{
+    margin-left: 200px;
+    position: absolute;
+    top: 380px;
+    width: 139px;
+    height: 1px;
+    background-color:dimgray;
+
+}
+.or{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 355px;
+    left: 165px;
+
+   
+}
+.playstore{
+    position: absolute;
+    top: 420px;
+    left: 15px;
+    width: 90%;
+    height: 45px;
+    border-radius:20px ;
+}
+.google{
+    width: 19px;
+    height: 18px;
+    margin-top: -1px;
+}
+.img{
+    width: 45px;
+    margin-top: -30px;
+    margin-left: 48px;
+}
+
+    
+
+.appstore{
+    position: absolute;
+    top: 480px;
+    left: 15px;
+    width: 90%;
+    height: 45px;
+    border-radius:20px ;
+}
+.apple{
+    
+    width: 40px;
+    height: 28px;
+}
+.img2{
+    
+    width: 46px;
+    margin-top: -38px;
+    margin-left: 48px;
+
+}
+.f1{
+    width: 131px;
+    font-size: 18px;
+    margin-left: 700px;
+    margin-top: 500px;
+}
+.f2{
+    font-size: 20px;
+    margin-left: 839px;
+    margin-top: -42px;
+     width: 100px;
+}
+.f2join{
+    color: #0073b1;
+}
+.f3{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.f3-items{
+    color: grey;
+    font-size: 14px;
+    float:left;
+    padding-left: 50px;
+}
+.f4-items{
+    margin-right:173px;
+    margin-top: 13px;
+    color: grey;
+    float: right;
+}
